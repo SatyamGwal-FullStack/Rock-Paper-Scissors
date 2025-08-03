@@ -10,7 +10,7 @@ A fun and interactive implementation of the classic Rock-Paper-Scissors game usi
   - Red for losses
 
 ## Live Demo
-Click this link(https://satyamgwal-fullstack.github.io/Rock-Paper-Scissors/)
+[Click this link to play the game](https://satyamgwal-fullstack.github.io/Rock-Paper-Scissors/)
 
 ## How to use
 1. Clone this repo.
